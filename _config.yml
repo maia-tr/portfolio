@@ -3,21 +3,7 @@ remote_theme: just-the-docs/just-the-docs
 
 color_scheme: light
 search_enabled: false
-
+nav_enabled: true
 nav_sort: case_insensitive
 
-nav:
-  - title: "Home"
-    url: "/"
-  - title: "Project: Availability of Places in Senior Clubs"
-    children:
-      - title: "Interactive Choropleth Map with Folium"
-        url: "/interactive_choropleth_map"
-      - title: "Heatmap"
-        url: "/heatmap"
-  - title: "Project: Land Surface Temperature in Szczecin, Poland"
-    children:
-      - title: "Interactive Plot with Bokeh"
-        url: "/interactive_bokeh_plot"
-      - title: "Interactive Choropleth Map with Zonal Statistics"
-        url: "/zonal_stats_map"
+nav_error_report: true
