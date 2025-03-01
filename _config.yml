@@ -1,3 +1,21 @@
 title: Portfolio
 description: This is a page where I showcase the final visual effects of my all data-related actions. To create them, I myself gathered the data, came to idea what to do with them, cleaned, looked through, made statistical analyses to get more knowledge about them and made the visuals.
 remote_theme: just-the-docs/just-the-docs
+
+color_scheme: light
+
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Project: Availability of places in senior clubs"
+    children:
+      - title: "Interactive choropleth map with Folium"
+        url: "/interactive_choropleth_map"
+      - title: "Heatmap"
+        url: "/heatmap"
+  -title: "Project: Land Surface Temperature in the Szczecin, Poland area"
+    children:
+      - title: "Interactive plot with Bokeh"
+        url: "/interactive_bokeh_plot"
+      - title: "Interactive choropleth map with zonal statistics"
+        url: "/zonal_stats_map"
