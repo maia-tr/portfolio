@@ -18,9 +18,11 @@ Tools used: GEE, Python (i.a. Folium, Geopandas, Rasterio, Bokeh)
 #### **Interactive map of LST** 
 The plot was done by mapping LST data from a raster file onto polygons representing individual pixels. 
 
-<iframe src="{{ '/assets/lst_raster_to_polygons.html' | relative_url }}" width="100%" height="810"></iframe>
+<div class="chart-container">
+	<iframe src="{{ '/assets/lst_raster_to_polygons.html' | relative_url }}" width="100%" height="810"></iframe>
+</div>
 
 #### **Interactive map of mean land surface temperature in each neighborhood** 
 The map shows the mean LST for each neighborhood. Hovering reveals basic zonal statistics (mean, min, max temperature).
 
-<iframe src="{{ '/assets/st_zonal_stats.html' | relative_url }}" width="100%" height="500"></iframe>
+<iframe src="{{ '/assets/lst_zonal_stats.html' | relative_url }}" width="100%" height="500"></iframe>
