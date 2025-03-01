@@ -1,7 +1,6 @@
 ---
 title: "Interactive plot with Bokeh"
-parent: "Project: Land Surface Temperature in the Szczecin, Poland area"
-nav_order: 3
+nav_order: 1
 ---
 
 

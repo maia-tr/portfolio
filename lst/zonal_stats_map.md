@@ -1,7 +1,6 @@
 ---
 title: "Interactive choropleth map with zonal statistics"
-parent: "Project: Land Surface Temperature in the Szczecin, Poland area"
-nav_order: 4
+nav_order: 2
 ---
 
 #### **Interactive map of mean land surface temperature in each neighborhood** 

@@ -1,6 +1,5 @@
 ---
 title: "Heatmap"
-parent: "Project: Availability of places in senior clubs"
 nav_order: 2
 ---
 

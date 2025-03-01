@@ -1,6 +1,5 @@
 ---
 title: "Interactive choropleth map with Folium"
-parent: "Project: Availability of places in senior clubs"
 nav_order: 1
 ---
 
