@@ -2,19 +2,20 @@ title: Portfolio
 remote_theme: just-the-docs/just-the-docs
 
 color_scheme: light
-
+search_enabled: false
+nav_enabled: true
 nav:
-  - title: "Home"
-    url: "/"
-  - title: "Project: Availability of places in senior clubs"
-    children:
-      - title: "Interactive choropleth map with Folium"
-        url: "/interactive_choropleth_map"
-      - title: "Heatmap"
-        url: "/heatmap"
-  -title: "Project: Land Surface Temperature in the Szczecin, Poland area"
-    children:
-      - title: "Interactive plot with Bokeh"
-        url: "/interactive_bokeh_plot"
-      - title: "Interactive choropleth map with zonal statistics"
-        url: "/zonal_stats_map"
+   - title: "Home"
+     url: "/"
+   - title: "Project: Availability of places in senior clubs"
+     children:
+       - title: "Interactive choropleth map with Folium"
+         url: "/interactive_choropleth_map"
+       - title: "Heatmap"
+         url: "/heatmap"
+   - title: "Project: Land Surface Temperature in the Szczecin, Poland area"
+     children:
+       - title: "Interactive plot with Bokeh"
+         url: "/interactive_bokeh_plot"
+       - title: "Interactive choropleth map with zonal statistics"
+         url: "/zonal_stats_map"
