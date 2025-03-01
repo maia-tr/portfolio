@@ -1,0 +1,3 @@
+# portfolio
+
+This is a page where I showcase the final visual effects of my all data-related actions. To create them, I myself gathered the data, came to idea what to do with them, cleaned, looked through, made statistical analyses to get more knowledge about them and made the visuals.
