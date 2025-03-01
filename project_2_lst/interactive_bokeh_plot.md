@@ -1,3 +1,10 @@
+---
+title: "Interactive plot with Bokeh"
+parent: "Project: Land Surface Temperature in the Szczecin, Poland area"
+nav_order: 3
+---
+
+
 #### **Interactive map of LST** 
 The plot was done by mapping LST data from a raster file onto polygons representing individual pixels. 
 

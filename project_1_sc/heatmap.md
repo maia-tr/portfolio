@@ -1,3 +1,10 @@
+---
+title: "Heatmap"
+parent: "Project: Availability of places in senior clubs"
+nav_order: 2
+---
+
+
 #### **Heatmap**
 The heatmap presents the intesity of senior clubs across regions and hightlights high and low concentrations of places in senior clubs.
 
