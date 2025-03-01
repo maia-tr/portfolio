@@ -1,5 +1,5 @@
 ---
-title: Project: Land Surface Temperature in Szczecin, Poland
+title: Land Surface Temperature in Szczecin, Poland
 nav_order: 2
 ---
 

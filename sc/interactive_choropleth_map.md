@@ -1,5 +1,6 @@
 ---
-title: "Interactive choropleth map with Folium"
+title: Interactive choropleth map with Folium
+parent: Availability of Places in Senior Clubs
 nav_order: 1
 ---
 

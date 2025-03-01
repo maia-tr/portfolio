@@ -1,5 +1,6 @@
 ---
 title: "Interactive plot with Bokeh"
+parent: Land Surface Temperature in Szczecin, Poland
 nav_order: 1
 ---
 

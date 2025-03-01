@@ -1,5 +1,6 @@
 ---
-title: "Heatmap"
+title: Heatmap
+parent: Availability of Places in Senior Clubs
 nav_order: 2
 ---
 

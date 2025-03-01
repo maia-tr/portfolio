@@ -1,5 +1,6 @@
 ---
 title: "Interactive choropleth map with zonal statistics"
+parent: Land Surface Temperature in Szczecin, Poland
 nav_order: 2
 ---
 
