@@ -1,18 +1,14 @@
 title: Portfolio
 remote_theme: just-the-docs/just-the-docs
 
-color_scheme: light
 search_enabled: false
 nav_enabled: true
 nav_sort: case_insensitive
-
-nav_error_report: true
 
 color_scheme: style
 
 just_the_docs:
   custom_css:
     - "_sass/custom/custom.scss"
-
 
 footer_content: "© 2025 maia-tr. All rights reserved."
