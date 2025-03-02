@@ -4,12 +4,12 @@ nav_order: 2
 has_toc: false
 ---
 
-# Land Surface Temperature in Szczecin, West Pomerania (Poland)
+## Land Surface Temperature in Szczecin, West Pomerania (Poland)
 
-## Overview
+### Overview
 Here I showcase effects of geospatial analysis dedicated to environmental and urban studies in Szczecin, Poland. This project is designed to practice geospatial data analysis skills and showcase data visualizations, focusing on themes related to urban climate, vegetation health, and land use and it aims to provide insights into environmental changes and urban dynamics.
 
-## Objectives
+### Objectives
 
 This project serves as a space for practice of geospatial analysis and visualization, with a focus on the following objectives:
 - developing spatial and non-spatial data analysis skills
@@ -17,7 +17,8 @@ This project serves as a space for practice of geospatial analysis and visualiza
 - experimenting with data analysis and visualization tools
 - providing visualizations and insights on topics significant to the health and state of the natural and urban environment
 
-## Exploring Land Surface Temperature (LST) - description of a process
+### Exploring Land Surface Temperature (LST) - description of a process
+
 
 **Defining area of interest**
 
