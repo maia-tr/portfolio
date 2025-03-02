@@ -8,6 +8,4 @@ nav_sort: case_insensitive
 
 nav_error_report: true
 
-just_the_docs:
-  auxiliary_stylesheets:
-    - "/assets/css/custom.css"
+color_scheme: style

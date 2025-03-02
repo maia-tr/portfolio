@@ -14,6 +14,7 @@ This is a page where I showcase the final visual effects of my all data-related 
 
 🍊 Here is my [Linkedin](www.linkedin.com/in/maia-tr)
 
+
 #### **Interests I express in this exact space**
 maps, climate change, natural environenment, data handling, sustainable existence, visualisations
 
@@ -21,5 +22,5 @@ maps, climate change, natural environenment, data handling, sustainable existenc
 
 Analysis of [Land Surface Temperature in Szczecin, West Pomerania (Poland)](https://maia-tr.github.io/portfolio/lst/)
 It includes:
-	- [Interactive map of Land Surface Temperature in Szczecin](https://maia-tr.github.io/portfolio/lst/interactive_bokeh_plot.html)
-	- [Interactive map of LST mean values in each neighborhood](https://maia-tr.github.io/portfolio/lst/zonal_stats_map.html)
+- [Interactive map of Land Surface Temperature in Szczecin](https://maia-tr.github.io/portfolio/lst/interactive_bokeh_plot.html)
+- [Interactive map of LST mean values in each neighborhood](https://maia-tr.github.io/portfolio/lst/zonal_stats_map.html)
