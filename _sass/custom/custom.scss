@@ -1,16 +1,11 @@
 .main-content {
-    max-width: 800px !important
+    max-width: 800px !important;
 }
 
-.page-header {
-    display: none;
+.site-header {
+    display: none !important;
   }
 
-.side-bar {
-    background: #FB8500 !important;
-}
-
-.nav-list .nav-list-item a {
-    background: none !important;
-    box-shadow: none !important;
-}
+.main-header {
+    display: none !important;
+  }

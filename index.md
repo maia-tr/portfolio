@@ -4,6 +4,8 @@ nav_order: 1
 has_toc: false
 ---
 
+# PORTFOLIO
+
 ## OVERVIEW
 
 This is a page where I showcase the final visual effects of my all data-related actions. To create them, I gathered the data, came to idea what to do with them, cleaned, looked through, made statistical analyses to get more knowledge about them and made the visuals.
