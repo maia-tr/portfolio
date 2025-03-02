@@ -15,7 +15,7 @@ This is a page where I showcase the final visual effects of my all data-related 
 
 
 #### **Interests I express in this exact space**
-<span style="font-size: 12px;"> maps, climate change, natural environenment, data handling, sustainable existence, visualisations </span>
+<span style="font-size: 14px;"> maps, climate change, natural environenment, data handling, sustainable existence, visualisations </span>
 
 ## Content:
 
