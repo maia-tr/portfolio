@@ -1,10 +1,12 @@
 ---
 title: "Interactive choropleth map with zonal statistics"
-parent: Land Surface Temperature in Szczecin, Poland
+parent: Land Surface Temperature in Szczecin, West Pomerania (Poland)
 nav_order: 2
 ---
 
-#### **Interactive map of mean land surface temperature in each neighborhood** 
-The map shows the mean LST for each neighborhood. Hovering reveals basic zonal statistics (mean, min, max temperature).
+#### **Interactive map of LST mean values in each neighborhood** 
+The map shows the mean LST for each neighborhood. Hovering reveals basic zonal statistics (mean, min, max temperature), as well as population density.
 
 <iframe src="{{ '/assets/lst_zonal_stats.html' | relative_url }}" width="100%" height="550"></iframe>
+
+Python libraries used: Pandas, Geopandas, Folium, Branca
