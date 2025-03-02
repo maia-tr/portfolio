@@ -4,6 +4,7 @@ nav_order: 1
 has_toc: false
 ---
 
+# PORTFOLIO
 
 ## Overview
 
@@ -21,6 +22,7 @@ maps, climate change, natural environenment, data handling, sustainable existenc
 ## Content:
 
 Analysis of [Land Surface Temperature in Szczecin, West Pomerania (Poland)](https://maia-tr.github.io/portfolio/lst/)
+
 It includes:
 - [Interactive map of Land Surface Temperature in Szczecin](https://maia-tr.github.io/portfolio/lst/interactive_bokeh_plot.html)
 - [Interactive map of LST mean values in each neighborhood](https://maia-tr.github.io/portfolio/lst/zonal_stats_map.html)
