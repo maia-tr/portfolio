@@ -1,6 +1,7 @@
 ---
 title: Land Surface Temperature in Szczecin, West Pomerania (Poland)
 nav_order: 2
+has_toc: false
 ---
 
 # Land Surface Temperature in Szczecin, West Pomerania (Poland)
@@ -46,4 +47,4 @@ Moreover, I added the population data, which I obtained from Szczecin's wikipedi
 - [Create and visualize Choropleth map with Folium](https://medium.com/analytics-vidhya/create-and-visualize-choropleth-map-with-folium-269d3fd12fa0)
 - [Introduction to Python GIS](https://automating-gis-processes.github.io/CSC18/index.html)
 - [Geopandas documentation](https://geopandas.org/en/stable/index.html)
-- plenty of different YT tutorials for GEE, no links sorry, but thanks to the people who shared them
+- plenty of different youtube tutorials for GEE, no links sorry, but thanks to the people who shared them
