@@ -10,7 +10,7 @@ This is a page where I show my work regarding data handling, analysis and visual
 
 ## ABOUT ME
 My name is Maia and I am data analyst, researcher and data visualisation specialist. I am particularly interested in using my skills and new technologies for meaningful projects, that would support sustainable and healthy living. <br>All my work is done mainly with the use of Python.
-<br>
+<br><br>
 More information about my profesional background can be found on [Linkedin](www.linkedin.com/in/maia-tr)
 
 
