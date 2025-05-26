@@ -1,5 +1,5 @@
 title: LST Szczecin Project
-remote_theme: just-the-docs/just-the-docs@v0.5.4
+remote_theme: just-the-docs/just-the-docs@@v0.9.0
 
 search_enabled: false
 nav_enabled: true
