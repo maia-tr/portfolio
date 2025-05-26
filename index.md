@@ -8,10 +8,8 @@ has_toc: false
 
 This page showcases my work regarding data handling, analysis and visualisation, with particular focus on spatial data processing and analysis.
 
-## ABOUT ME
-My name is Maia and I am data analyst, researcher and data visualisation specialist. I am particularly interested in using my skills and new technologies to support meaningful projects, that support sustainable and healthy living. <br>All my work is mainly done using Python.
-<br><br>
-More information about my professional background can be found on [Linkedin](https://www.linkedin.com/in/maia-tr)
+## AUTHOR
+[Linkedin](https://www.linkedin.com/in/maia-tr)
 
 
 ## CONTENT:
