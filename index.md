@@ -13,9 +13,6 @@ My name is Maia and I am data analyst, researcher and data visualisation special
 <br><br>
 More information about my profesional background can be found on [Linkedin](https://www.linkedin.com/in/maia-tr)
 
-<br>
-#### **Interests I express in this space**
-<span style="font-size: 14px;"> maps, climate change, natural environenment, data handling, sustainability, visualisations, statistics </span>
 
 ## CONTENT:
 
